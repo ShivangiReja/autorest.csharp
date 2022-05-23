@@ -1,0 +1,1 @@
+c['908']=[['909',"ClassificationRulePattern Constructor","topic_00000000000002B9.html",0]];

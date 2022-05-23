@@ -1,0 +1,1 @@
+c['1106']=[['1107',"PowerBIDelegatedScan Constructor","topic_000000000000040D.html",0],['1108',"Properties","topic_000000000000040C_props--.html",1]];

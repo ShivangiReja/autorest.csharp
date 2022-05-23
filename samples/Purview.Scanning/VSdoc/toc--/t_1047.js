@@ -1,0 +1,1 @@
+c['1047']=[['1048',"OracleCredentialScan Constructor","topic_00000000000003DB.html",0],['1049',"Properties","topic_00000000000003DA_props--.html",1]];

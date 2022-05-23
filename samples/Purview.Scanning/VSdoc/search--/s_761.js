@@ -1,0 +1,1 @@
+search_result['761']=["topic_0000000000000105.html","AzureDataExplorerMsiScanProperties.Database Property","Gets or sets the database."];

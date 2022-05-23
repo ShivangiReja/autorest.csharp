@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['1404',"SqlServerDatabaseSystemScanRuleset Class","topic_0000000000000550.html"],['1406',"Properties","topic_0000000000000550_props--.html"]];

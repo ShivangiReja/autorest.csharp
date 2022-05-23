@@ -1,0 +1,1 @@
+search_result['776']=["topic_000000000000010A.html","AzureDataExplorerProperties.Endpoint Property","Gets or sets the endpoint."];

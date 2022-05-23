@@ -1,0 +1,1 @@
+search_result['779']=["topic_000000000000010B_events--.html","AzureDataExplorerScanRuleset Events",""];

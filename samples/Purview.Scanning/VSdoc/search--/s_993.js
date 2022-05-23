@@ -1,0 +1,1 @@
+search_result['993']=["topic_0000000000000157.html","AzureMySqlScanProperties.ServerEndpoint Property","Gets or sets the server endpoint."];

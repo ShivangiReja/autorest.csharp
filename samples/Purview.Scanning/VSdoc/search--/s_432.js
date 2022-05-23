@@ -1,0 +1,1 @@
+search_result['432']=["topic_0000000000000093.html","AmazonS3CredentialScanPropertiesCredential Constructor","Initializes a new instance of AmazonS3CredentialScanPropertiesCredential."];

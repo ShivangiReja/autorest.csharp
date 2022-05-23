@@ -1,0 +1,1 @@
+c['1240']=[['1241',"SapEccScanRulesetProperties Constructor","topic_000000000000046E.html",0]];

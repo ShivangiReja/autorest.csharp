@@ -1,0 +1,1 @@
+search_result['609']=["topic_00000000000000D1.html","AzureCosmosDbCredentialScan Class","The AzureCosmosDbCredentialScan."];

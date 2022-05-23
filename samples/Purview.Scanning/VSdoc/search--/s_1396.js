@@ -1,0 +1,1 @@
+search_result['1396']=["topic_00000000000001E1.html","AzureSqlDatabaseManagedInstanceSystemScanRulesetProperties Constructor","Initializes a new instance of AzureSqlDatabaseManagedInstanceSystemScanRulesetProperties."];

@@ -1,0 +1,1 @@
+c['6']=[['7',"PurviewClassificationRuleClient() Constructor","topic_00000000000005C4.html",0],['8',"PurviewClassificationRuleClient(Uri, string, TokenCredential, PurviewScanningServiceClientOptions) Constructor","topic_00000000000005C5.html",0]];

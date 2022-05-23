@@ -1,0 +1,1 @@
+search_result['516']=["topic_00000000000000B0.html","AmazonS3SystemScanRulesetProperties Constructor","Initializes a new instance of AmazonS3SystemScanRulesetProperties."];

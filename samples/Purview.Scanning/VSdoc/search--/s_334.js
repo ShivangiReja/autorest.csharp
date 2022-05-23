@@ -1,0 +1,1 @@
+search_result['334']=["topic_0000000000000072.html","AmazonPostgreSqlCredentialScanPropertiesCredential Class","The AmazonPostgreSqlCredentialScanPropertiesCredential."];

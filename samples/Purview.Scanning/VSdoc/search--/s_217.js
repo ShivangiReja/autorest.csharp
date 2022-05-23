@@ -1,0 +1,1 @@
+search_result['217']=["topic_0000000000000048.html","AdlsGen2SystemScanRuleset.Properties Property","Gets or sets the properties."];

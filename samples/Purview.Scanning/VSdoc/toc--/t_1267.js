@@ -1,0 +1,1 @@
+c['1267']=[['1268',"SapS4HanaProperties Constructor","topic_0000000000000485.html",0],['1269',"Properties","topic_0000000000000484_props--.html",1]];

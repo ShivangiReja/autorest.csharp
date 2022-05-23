@@ -1,0 +1,1 @@
+search_result['1507']=["topic_0000000000000205.html","AzureSqlDataWarehouseMsiScan Constructor","Initializes a new instance of AzureSqlDataWarehouseMsiScan."];

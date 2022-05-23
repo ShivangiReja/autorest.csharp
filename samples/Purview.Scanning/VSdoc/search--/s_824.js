@@ -1,0 +1,1 @@
+search_result['824']=["topic_000000000000011C.html","AzureDataSourceProperties.ResourceName Property","Gets or sets the resource name."];

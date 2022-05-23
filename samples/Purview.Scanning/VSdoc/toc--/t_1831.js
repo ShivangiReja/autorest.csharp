@@ -1,0 +1,1 @@
+c['1831']=[['1832',"TriggerFrequency Constructor","topic_000000000000059C.html",0],['1833',"Properties","topic_000000000000059B_props--.html",1],['1836',"Methods","topic_000000000000059B_methods--.html",1]];

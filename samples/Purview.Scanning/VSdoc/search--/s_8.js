@@ -1,0 +1,1 @@
+search_result['8']=["topic_0000000000000003.html","AdlsGen1CredentialScan.Properties Property","Gets or sets the properties."];

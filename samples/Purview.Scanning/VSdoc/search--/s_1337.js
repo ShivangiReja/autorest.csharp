@@ -1,0 +1,1 @@
+search_result['1337']=["topic_00000000000001CE.html","AzureSqlDatabaseManagedInstanceMsiScan.Properties Property","Gets or sets the properties."];

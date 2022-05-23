@@ -1,0 +1,1 @@
+search_result['775']=["topic_0000000000000109.html","AzureDataExplorerProperties Constructor","Initializes a new instance of AzureDataExplorerProperties."];

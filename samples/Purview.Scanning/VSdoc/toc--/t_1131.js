@@ -1,0 +1,1 @@
+c['1131']=[['1132',"PowerBIProperties Constructor","topic_0000000000000422.html",0],['1133',"Properties","topic_0000000000000421_props--.html",1]];

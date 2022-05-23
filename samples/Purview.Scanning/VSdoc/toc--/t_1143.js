@@ -1,0 +1,1 @@
+c['1143']=[['1144',"PowerBISystemScanRuleset Constructor","topic_000000000000042C.html",0],['1145',"Properties","topic_000000000000042B_props--.html",1]];

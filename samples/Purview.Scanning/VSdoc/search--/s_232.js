@@ -1,0 +1,1 @@
+search_result['232']=["topic_000000000000004D.html","AmazonAccountCredentialScan.Properties Property","Gets or sets the properties."];

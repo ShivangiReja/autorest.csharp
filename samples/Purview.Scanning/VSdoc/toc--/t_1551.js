@@ -1,0 +1,1 @@
+c['1551']=[['1552',"ClassificationRuleStatus Constructor","topic_00000000000002C5.html",0],['1553',"Properties","topic_00000000000002C4_props--.html",1],['1556',"Methods","topic_00000000000002C4_methods--.html",1]];

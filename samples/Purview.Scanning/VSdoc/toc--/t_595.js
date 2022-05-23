@@ -1,0 +1,1 @@
+c['595']=[['596',"AzureResourceGroupScanRuleset Constructor","topic_00000000000001A4.html",0],['597',"Properties","topic_00000000000001A3_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['314']=["topic_0000000000000068.html","AmazonPostgreSqlCredentialScan Constructor","Initializes a new instance of AmazonPostgreSqlCredentialScan."];

@@ -1,0 +1,1 @@
+search_result['639']=["topic_00000000000000DB.html","AzureCosmosDbCredentialScanPropertiesCredential Constructor","Initializes a new instance of AzureCosmosDbCredentialScanPropertiesCredential."];

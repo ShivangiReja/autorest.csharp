@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['1431',"TeradataCredentialScanProperties Class","topic_0000000000000567.html"],['1433',"Properties","topic_0000000000000567_props--.html"],['1434',"Credential Property","topic_0000000000000569.html"]];

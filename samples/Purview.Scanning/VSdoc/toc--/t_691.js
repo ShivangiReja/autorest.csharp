@@ -1,0 +1,1 @@
+c['691']=[['692',"AzureSqlDatabaseManagedInstanceProperties Constructor","topic_00000000000001D4.html",0],['693',"Properties","topic_00000000000001D3_props--.html",1]];

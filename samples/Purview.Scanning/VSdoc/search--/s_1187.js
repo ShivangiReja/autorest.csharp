@@ -1,0 +1,1 @@
+search_result['1187']=["topic_000000000000019C.html","AzureResourceGroupMsiScanProperties Constructor","Initializes a new instance of AzureResourceGroupMsiScanProperties."];

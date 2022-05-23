@@ -1,0 +1,1 @@
+search_result['532']=["topic_00000000000000B6.html","AmazonSqlCredentialScanProperties.Credential Property","Gets or sets the credential."];

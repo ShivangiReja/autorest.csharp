@@ -1,0 +1,1 @@
+search_result['1285']=["topic_00000000000001BD.html","AzureSqlDatabaseDataSource.Properties Property","Gets or sets the properties."];

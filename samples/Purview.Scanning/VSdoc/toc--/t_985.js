@@ -1,0 +1,1 @@
+c['985']=[['986',"Credential Property","topic_000000000000036C.html",0],['987',"ResourceTypes Property","topic_000000000000036B.html",0]];

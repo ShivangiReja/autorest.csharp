@@ -1,0 +1,1 @@
+search_result['84']=["topic_000000000000001D.html","AdlsGen1ScanRulesetProperties Class","The AdlsGen1ScanRulesetProperties."];

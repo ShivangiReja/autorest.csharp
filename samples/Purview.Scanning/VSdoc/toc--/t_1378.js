@@ -1,0 +1,1 @@
+c['1378']=[['1379',"SqlServerDatabaseCredentialScan Constructor","topic_000000000000053B.html",0],['1380',"Properties","topic_000000000000053A_props--.html",1]];

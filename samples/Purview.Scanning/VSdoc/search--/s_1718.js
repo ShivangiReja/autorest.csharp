@@ -1,0 +1,1 @@
+search_result['1718']=["topic_000000000000024C.html","AzureSubscriptionDataSource.Properties Property","Gets or sets the properties."];

@@ -1,0 +1,1 @@
+search_result['1574']=["topic_000000000000021B.html","AzureSqlScanProperties Constructor","Initializes a new instance of AzureSqlScanProperties."];

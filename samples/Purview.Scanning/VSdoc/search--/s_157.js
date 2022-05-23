@@ -1,0 +1,1 @@
+search_result['157']=["topic_0000000000000034.html","AdlsGen2DataSourceProperties Constructor","Initializes a new instance of AdlsGen2DataSourceProperties."];

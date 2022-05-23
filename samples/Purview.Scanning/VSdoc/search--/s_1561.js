@@ -1,0 +1,1 @@
+search_result['1561']=["topic_0000000000000218.html","AzureSqlDataWarehouseSystemScanRulesetProperties Class","The AzureSqlDataWarehouseSystemScanRulesetProperties."];

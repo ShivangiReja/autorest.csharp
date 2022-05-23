@@ -1,0 +1,1 @@
+c['623']=[['624',"AzureSqlDataWarehouseDataSource Constructor","topic_0000000000000200.html",0],['625',"Properties","topic_00000000000001FF_props--.html",1]];

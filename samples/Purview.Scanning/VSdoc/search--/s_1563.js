@@ -1,0 +1,1 @@
+search_result['1563']=["topic_0000000000000218_events--.html","AzureSqlDataWarehouseSystemScanRulesetProperties Events",""];

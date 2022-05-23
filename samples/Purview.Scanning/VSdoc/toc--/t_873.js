@@ -1,0 +1,1 @@
+c['873']=[['874',"AzureSynapseWorkspaceDataSource Constructor","topic_0000000000000290.html",0],['875',"Properties","topic_000000000000028F_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['1263']=["topic_00000000000001B6.html","AzureSqlDatabaseCredentialScan.Properties Property","Gets or sets the properties."];

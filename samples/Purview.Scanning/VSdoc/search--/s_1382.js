@@ -1,0 +1,1 @@
+search_result['1382']=["topic_00000000000001DD.html","AzureSqlDatabaseManagedInstanceSystemScanRuleset Class","The AzureSqlDatabaseManagedInstanceSystemScanRuleset."];

@@ -1,0 +1,1 @@
+search_result['821']=["topic_0000000000000119.html","AzureDataSourceProperties.ResourceGroup Property","Gets or sets the resource group."];

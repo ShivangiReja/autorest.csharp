@@ -1,0 +1,1 @@
+c['1461']=[['1462',"TeradataSystemScanRulesetProperties Constructor","topic_0000000000000581.html",0]];

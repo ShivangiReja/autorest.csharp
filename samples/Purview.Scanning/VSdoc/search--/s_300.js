@@ -1,0 +1,1 @@
+search_result['300']=["topic_0000000000000064.html","AmazonAccountSystemScanRuleset.Properties Property","Gets or sets the properties."];

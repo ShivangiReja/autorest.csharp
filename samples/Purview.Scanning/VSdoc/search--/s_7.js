@@ -1,0 +1,1 @@
+search_result['7']=["topic_0000000000000002.html","AdlsGen1CredentialScan Constructor","Initializes a new instance of AdlsGen1CredentialScan."];

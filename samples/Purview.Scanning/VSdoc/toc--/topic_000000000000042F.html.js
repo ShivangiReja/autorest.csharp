@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['1147',"PowerBISystemScanRulesetProperties Class","topic_000000000000042E.html"],['1148',"PowerBISystemScanRulesetProperties Constructor","topic_000000000000042F.html"]];

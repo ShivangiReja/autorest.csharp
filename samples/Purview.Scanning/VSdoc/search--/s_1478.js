@@ -1,0 +1,1 @@
+search_result['1478']=["topic_00000000000001FC.html","AzureSqlDataWarehouseCredentialScanProperties Constructor","Initializes a new instance of AzureSqlDataWarehouseCredentialScanProperties."];

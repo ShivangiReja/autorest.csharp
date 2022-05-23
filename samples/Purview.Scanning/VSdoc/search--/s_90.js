@@ -1,0 +1,1 @@
+search_result['90']=["topic_000000000000001E.html","AdlsGen1ScanRulesetProperties Constructor","Initializes a new instance of AdlsGen1ScanRulesetProperties."];

@@ -1,0 +1,1 @@
+search_result['1033']=["topic_0000000000000166.html","AzureMySqlSystemScanRuleset.Properties Property","Gets or sets the properties."];

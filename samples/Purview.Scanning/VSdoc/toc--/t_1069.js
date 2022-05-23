@@ -1,0 +1,1 @@
+c['1069']=[['1070',"OracleProperties Constructor","topic_00000000000003EE.html",0],['1071',"Properties","topic_00000000000003ED_props--.html",1]];

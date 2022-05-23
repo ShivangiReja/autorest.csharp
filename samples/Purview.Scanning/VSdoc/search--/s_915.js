@@ -1,0 +1,1 @@
+search_result['915']=["topic_000000000000013B.html","AzureFileServiceSystemScanRulesetProperties Constructor","Initializes a new instance of AzureFileServiceSystemScanRulesetProperties."];

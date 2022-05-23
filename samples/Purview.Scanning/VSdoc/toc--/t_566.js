@@ -1,0 +1,1 @@
+c['566']=[['567',"AzurePostgreSqlSystemScanRulesetProperties Constructor","topic_000000000000018B.html",0]];

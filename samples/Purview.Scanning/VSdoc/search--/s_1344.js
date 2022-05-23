@@ -1,0 +1,1 @@
+search_result['1344']=["topic_00000000000001D0.html","AzureSqlDatabaseManagedInstanceMsiScanProperties Constructor","Initializes a new instance of AzureSqlDatabaseManagedInstanceMsiScanProperties."];

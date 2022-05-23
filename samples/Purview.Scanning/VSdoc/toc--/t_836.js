@@ -1,0 +1,1 @@
+c['836']=[['837',"AzureSynapseDataSourceProperties Constructor","topic_0000000000000270.html",0]];

@@ -1,0 +1,1 @@
+c['1538']=[['1539',"ClassificationRulePatternType Constructor","topic_00000000000002BB.html",0],['1540',"Properties","topic_00000000000002BA_props--.html",1],['1542',"Methods","topic_00000000000002BA_methods--.html",1]];

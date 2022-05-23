@@ -1,0 +1,1 @@
+search_result['187']=["topic_000000000000003E.html","AdlsGen2Properties.Endpoint Property","Gets or sets the endpoint."];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['239',"AmazonPostgreSqlDataSourceProperties Class","topic_0000000000000077.html"],['240',"AmazonPostgreSqlDataSourceProperties Constructor","topic_0000000000000078.html"]];

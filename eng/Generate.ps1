@@ -188,7 +188,8 @@ $projectNames =
     'Azure.Management.Storage',
     'Azure.Network.Management.Interface',
     'Azure.AI.DocumentTranslation',
-    'Azure.Analytics.Purview.Account'
+    'Azure.Analytics.Purview.Account',
+    'Purview.Scanning'
 
 if (!($Exclude -contains "Samples"))
 {

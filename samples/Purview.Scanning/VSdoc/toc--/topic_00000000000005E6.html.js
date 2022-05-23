@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['4',"Purview.Scanning Namespace","topic_00000000000005C2.html"],['33',"PurviewScanClient Class","topic_00000000000005DB.html"],['37',"Methods","topic_00000000000005DB_methods--.html"],['47',"DeleteAsync Method","topic_00000000000005E6.html"]];

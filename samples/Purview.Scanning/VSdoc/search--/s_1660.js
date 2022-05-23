@@ -1,0 +1,1 @@
+search_result['1660']=["topic_000000000000023A.html","AzureStorageScanRulesetProperties Class","The AzureStorageScanRulesetProperties."];

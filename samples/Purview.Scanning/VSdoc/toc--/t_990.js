@@ -1,0 +1,1 @@
+c['990']=[['991',"ExpandingResourceScanPropertiesResourceTypes Constructor","topic_0000000000000370.html",0],['992',"Properties","topic_000000000000036F_props--.html",1]];

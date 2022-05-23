@@ -1,0 +1,1 @@
+search_result['150']=["topic_0000000000000032.html","AdlsGen2DataSource.Properties Property","Gets or sets the properties."];

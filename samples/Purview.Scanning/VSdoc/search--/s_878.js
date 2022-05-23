@@ -1,0 +1,1 @@
+search_result['878']=["topic_000000000000012F.html","AzureFileServiceProperties.Endpoint Property","Gets or sets the endpoint."];

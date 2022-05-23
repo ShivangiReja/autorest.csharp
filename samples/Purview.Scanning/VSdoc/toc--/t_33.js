@@ -1,0 +1,1 @@
+c['33']=[['34',"PurviewScanClient Constructor","topic_00000000000005DC_overloads--.html",1],['37',"Methods","topic_00000000000005DB_methods--.html",1]];

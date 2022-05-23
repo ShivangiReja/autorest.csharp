@@ -1,0 +1,1 @@
+search_result['1056']=["topic_000000000000016E.html","AzurePostgreSqlCredentialScanProperties.Credential Property","Gets or sets the credential."];

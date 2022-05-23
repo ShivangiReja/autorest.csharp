@@ -1,0 +1,1 @@
+c['513']=[['514',"AzureMySqlScanRuleset Constructor","topic_000000000000015E.html",0],['515',"Properties","topic_000000000000015D_props--.html",1]];

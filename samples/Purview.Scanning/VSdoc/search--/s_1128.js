@@ -1,0 +1,1 @@
+search_result['1128']=["topic_0000000000000189.html","AzurePostgreSqlSystemScanRuleset.Properties Property","Gets or sets the properties."];

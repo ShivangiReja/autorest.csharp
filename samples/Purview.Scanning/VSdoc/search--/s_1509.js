@@ -1,0 +1,1 @@
+search_result['1509']=["topic_0000000000000207.html","AzureSqlDataWarehouseMsiScanProperties Class","The AzureSqlDataWarehouseMsiScanProperties."];

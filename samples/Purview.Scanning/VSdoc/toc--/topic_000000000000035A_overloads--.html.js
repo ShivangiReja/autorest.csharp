@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['1653',"DaysOfWeek Structure","topic_000000000000034E.html"],['1663',"Methods","topic_000000000000034E_methods--.html"],['1665',"Equals Method","topic_000000000000035A_overloads--.html"]];

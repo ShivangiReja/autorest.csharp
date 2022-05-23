@@ -1,0 +1,1 @@
+search_result['571']=["topic_00000000000000C4.html","AmazonSqlProperties.ServerEndpoint Property","Gets or sets the server endpoint."];

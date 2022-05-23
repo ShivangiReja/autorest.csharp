@@ -1,0 +1,1 @@
+c['527']=[['528',"AzurePostgreSqlCredentialScan Constructor","topic_000000000000016A.html",0],['529',"Properties","topic_0000000000000169_props--.html",1]];

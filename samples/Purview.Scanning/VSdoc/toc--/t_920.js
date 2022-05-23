@@ -1,0 +1,1 @@
+c['920']=[['921',"CredentialReference Constructor","topic_00000000000002E3.html",0],['922',"Properties","topic_00000000000002E2_props--.html",1]];

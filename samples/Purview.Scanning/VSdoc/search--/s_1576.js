@@ -1,0 +1,1 @@
+search_result['1576']=["topic_000000000000021D.html","AzureSqlScanProperties.DatabaseName Property","Gets or sets the database name."];

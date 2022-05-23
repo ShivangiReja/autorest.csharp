@@ -1,0 +1,1 @@
+c['1125']=[['1126',"PowerBIMsiScanProperties Constructor","topic_000000000000041D.html",0],['1127',"Properties","topic_000000000000041C_props--.html",1]];

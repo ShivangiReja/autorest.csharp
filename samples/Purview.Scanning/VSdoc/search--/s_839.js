@@ -1,0 +1,1 @@
+search_result['839']=["topic_0000000000000121.html","AzureFileServiceCredentialScanProperties Constructor","Initializes a new instance of AzureFileServiceCredentialScanProperties."];

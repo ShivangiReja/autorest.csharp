@@ -1,0 +1,1 @@
+search_result['563']=["topic_00000000000000C1.html","AmazonSqlDataSourceProperties Constructor","Initializes a new instance of AmazonSqlDataSourceProperties."];

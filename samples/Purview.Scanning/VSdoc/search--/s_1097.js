@@ -1,0 +1,1 @@
+search_result['1097']=["topic_000000000000017E.html","AzurePostgreSqlProperties.ServerEndpoint Property","Gets or sets the server endpoint."];

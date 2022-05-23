@@ -1,0 +1,1 @@
+search_result['783']=["topic_000000000000010C.html","AzureDataExplorerScanRuleset Constructor","Initializes a new instance of AzureDataExplorerScanRuleset."];

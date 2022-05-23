@@ -1,0 +1,1 @@
+search_result['1010']=["topic_000000000000015E.html","AzureMySqlScanRuleset Constructor","Initializes a new instance of AzureMySqlScanRuleset."];

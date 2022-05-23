@@ -1,0 +1,1 @@
+c['95']=[['96',"ServiceVersion Enumeration","topic_0000000000000616.html",0],['97',"PurviewScanningServiceClientOptions Constructor","topic_0000000000000618.html",0]];

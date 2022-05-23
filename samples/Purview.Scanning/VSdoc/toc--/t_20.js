@@ -1,0 +1,1 @@
+c['20']=[['21',"PurviewDataSourceClient Constructor","topic_00000000000005D1_overloads--.html",1],['24',"Methods","topic_00000000000005D0_methods--.html",1]];

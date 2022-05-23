@@ -1,0 +1,1 @@
+search_result['1321']=["topic_00000000000001C8.html","AzureSqlDatabaseManagedInstanceDataSource Constructor","Initializes a new instance of AzureSqlDatabaseManagedInstanceDataSource."];

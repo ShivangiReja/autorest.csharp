@@ -1,0 +1,1 @@
+c['818']=[['819',"AzureSubscriptionSystemScanRuleset Constructor","topic_0000000000000261.html",0],['820',"Properties","topic_0000000000000260_props--.html",1]];

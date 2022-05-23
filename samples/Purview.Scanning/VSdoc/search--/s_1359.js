@@ -1,0 +1,1 @@
+search_result['1359']=["topic_00000000000001D5.html","AzureSqlDatabaseManagedInstanceProperties.ServerEndpoint Property","Gets or sets the server endpoint."];

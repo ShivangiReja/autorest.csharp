@@ -1,0 +1,1 @@
+search_result['1425']=["topic_00000000000001EA.html","AzureSqlDatabaseProperties Constructor","Initializes a new instance of AzureSqlDatabaseProperties."];

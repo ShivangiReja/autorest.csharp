@@ -1,0 +1,1 @@
+c['1653']=[['1654',"DaysOfWeek Constructor","topic_000000000000034F.html",0],['1655',"Properties","topic_000000000000034E_props--.html",1],['1663',"Methods","topic_000000000000034E_methods--.html",1]];

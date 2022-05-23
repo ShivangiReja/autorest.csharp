@@ -1,0 +1,1 @@
+c['1087']=[['1088',"OracleSystemScanRulesetProperties Constructor","topic_00000000000003FD.html",0]];

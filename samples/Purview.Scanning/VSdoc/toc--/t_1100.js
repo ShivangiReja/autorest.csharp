@@ -1,0 +1,1 @@
+c['1100']=[['1101',"PowerBIDataSource Constructor","topic_0000000000000408.html",0],['1102',"Properties","topic_0000000000000407_props--.html",1]];

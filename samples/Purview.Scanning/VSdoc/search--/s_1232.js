@@ -1,0 +1,1 @@
+search_result['1232']=["topic_00000000000001AB.html","AzureResourceGroupSystemScanRuleset Constructor","Initializes a new instance of AzureResourceGroupSystemScanRuleset."];

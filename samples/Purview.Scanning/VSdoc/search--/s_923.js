@@ -1,0 +1,1 @@
+search_result['923']=["topic_000000000000013E.html","AzureKeyVault.Properties Property","Gets or sets the properties."];

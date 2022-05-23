@@ -1,0 +1,1 @@
+search_result['1352']=["topic_00000000000001D3.html","AzureSqlDatabaseManagedInstanceProperties Class","The AzureSqlDatabaseManagedInstanceProperties."];

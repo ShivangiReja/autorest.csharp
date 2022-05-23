@@ -1,0 +1,1 @@
+c['653']=[['654',"AzureSqlDataWarehouseSystemScanRulesetProperties Constructor","topic_0000000000000219.html",0]];

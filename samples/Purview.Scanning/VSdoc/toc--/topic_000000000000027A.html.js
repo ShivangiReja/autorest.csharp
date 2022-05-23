@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['846',"AzureSynapseProperties Class","topic_0000000000000278.html"],['848',"Properties","topic_0000000000000278_props--.html"],['849',"SqlEndpoint Property","topic_000000000000027A.html"]];

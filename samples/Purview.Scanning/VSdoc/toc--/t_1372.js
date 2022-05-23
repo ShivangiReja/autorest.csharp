@@ -1,0 +1,1 @@
+c['1372']=[['1373',"ScanningRuleScanRulesetProperties Constructor","topic_00000000000004F5.html",0],['1374',"Properties","topic_00000000000004F4_props--.html",1]];

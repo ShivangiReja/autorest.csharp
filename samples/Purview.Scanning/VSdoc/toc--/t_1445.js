@@ -1,0 +1,1 @@
+c['1445']=[['1446',"TeradataProperties Constructor","topic_0000000000000574.html",0],['1447',"Properties","topic_0000000000000573_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['625']=["topic_00000000000000D7.html","AzureCosmosDbCredentialScanProperties.DatabaseName Property","Gets or sets the database name."];

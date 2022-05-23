@@ -1,0 +1,1 @@
+c['838']=[['839',"AzureSynapseMsiScan Constructor","topic_0000000000000272.html",0],['840',"Properties","topic_0000000000000271_props--.html",1]];

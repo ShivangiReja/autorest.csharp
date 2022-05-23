@@ -1,0 +1,1 @@
+search_result['471']=["topic_00000000000000A1.html","AmazonS3RoleARNScanProperties Constructor","Initializes a new instance of AmazonS3RoleARNScanProperties."];

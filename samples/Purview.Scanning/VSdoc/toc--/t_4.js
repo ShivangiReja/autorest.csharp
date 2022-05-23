@@ -1,0 +1,1 @@
+c['4']=[['5',"PurviewClassificationRuleClient Class","topic_00000000000005C3.html",1],['20',"PurviewDataSourceClient Class","topic_00000000000005D0.html",1],['33',"PurviewScanClient Class","topic_00000000000005DB.html",1],['60',"PurviewScanningServiceClient Class","topic_00000000000005F4.html",1],['95',"PurviewScanningServiceClientOptions Class","topic_0000000000000615.html",1]];

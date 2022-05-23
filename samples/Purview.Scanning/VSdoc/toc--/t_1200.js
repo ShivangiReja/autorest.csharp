@@ -1,0 +1,1 @@
+c['1200']=[['1201',"Credential Property","topic_000000000000044E.html",0],['1202',"ResourceNameFilter Property","topic_000000000000044D.html",0],['1203',"ScanRulesetName Property","topic_000000000000044B.html",0],['1204',"ScanRulesetType Property","topic_000000000000044C.html",0]];

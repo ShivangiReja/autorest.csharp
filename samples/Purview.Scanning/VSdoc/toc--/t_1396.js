@@ -1,0 +1,1 @@
+c['1396']=[['1397',"SqlServerDatabaseScanRuleset Constructor","topic_000000000000054A.html",0],['1398',"Properties","topic_0000000000000549_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['418']=["topic_000000000000008F.html","AmazonS3CredentialScanProperties.RoleARN Property","Gets or sets the role arn."];

@@ -1,0 +1,1 @@
+search_result['426']=["topic_0000000000000092.html","AmazonS3CredentialScanPropertiesCredential Class","The AmazonS3CredentialScanPropertiesCredential."];

@@ -1,0 +1,1 @@
+c['1227']=[['1228',"SapEccProperties Constructor","topic_0000000000000463.html",0],['1229',"Properties","topic_0000000000000462_props--.html",1]];

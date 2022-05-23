@@ -1,0 +1,1 @@
+c['387']=[['388',"AzureDataExplorerCredentialScanProperties Constructor","topic_00000000000000F4.html",0],['389',"Properties","topic_00000000000000F3_props--.html",1]];

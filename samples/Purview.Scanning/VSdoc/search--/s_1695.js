@@ -1,0 +1,1 @@
+search_result['1695']=["topic_0000000000000244.html","AzureSubscriptionCredentialScan Constructor","Initializes a new instance of AzureSubscriptionCredentialScan."];

@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['1030',"MitiScanProperties Class","topic_00000000000003BD.html"],['1032',"Properties","topic_00000000000003BD_props--.html"],['1033',"MaximumMemoryAllowedInGb Property","topic_00000000000003BF.html"]];

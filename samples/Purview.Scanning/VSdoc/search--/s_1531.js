@@ -1,0 +1,1 @@
+search_result['1531']=["topic_000000000000020E.html","AzureSqlDataWarehouseScanRuleset Class","The AzureSqlDataWarehouseScanRuleset."];

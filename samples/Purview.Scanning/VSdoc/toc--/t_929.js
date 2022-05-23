@@ -1,0 +1,1 @@
+c['929']=[['930',"CustomClassificationRuleProperties Constructor","topic_00000000000002F8.html",0],['931',"Properties","topic_00000000000002F7_props--.html",1]];

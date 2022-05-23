@@ -1,0 +1,1 @@
+c['1139']=[['1140',"PowerBIScanRulesetProperties Constructor","topic_0000000000000428.html",0]];

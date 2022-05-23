@@ -1,0 +1,1 @@
+search_result['778']=["topic_000000000000010B_attached_props--.html","AzureDataExplorerScanRuleset Attached Properties",""];

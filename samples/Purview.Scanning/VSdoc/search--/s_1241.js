@@ -1,0 +1,1 @@
+search_result['1241']=["topic_00000000000001AF.html","AzureSqlCredentialScanProperties Class","The AzureSqlCredentialScanProperties."];

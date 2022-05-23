@@ -1,0 +1,1 @@
+c['1734']=[['1735',"ScanAuthorizationType Constructor","topic_00000000000004AF.html",0],['1736',"Properties","topic_00000000000004AE_props--.html",1],['1780',"Methods","topic_00000000000004AE_methods--.html",1]];

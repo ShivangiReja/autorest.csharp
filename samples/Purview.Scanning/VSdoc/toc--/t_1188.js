@@ -1,0 +1,1 @@
+c['1188']=[['1189',"RegexClassificationRulePattern Constructor","topic_0000000000000442.html",0],['1190',"Properties","topic_0000000000000441_props--.html",1]];

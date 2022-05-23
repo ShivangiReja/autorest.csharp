@@ -1,0 +1,1 @@
+c['412']=[['413',"AzureDataExplorerProperties Constructor","topic_0000000000000109.html",0],['414',"Properties","topic_0000000000000108_props--.html",1]];

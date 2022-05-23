@@ -1,0 +1,1 @@
+c['683']=[['684',"AzureSqlDatabaseManagedInstanceMsiScan Constructor","topic_00000000000001CD.html",0],['685',"Properties","topic_00000000000001CC_props--.html",1]];

@@ -1,0 +1,1 @@
+search_result['693']=["topic_00000000000000EE.html","AzureCosmosDbSystemScanRulesetProperties Class","The AzureCosmosDbSystemScanRulesetProperties."];

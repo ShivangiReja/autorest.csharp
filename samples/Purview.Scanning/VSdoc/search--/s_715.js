@@ -1,0 +1,1 @@
+search_result['715']=["topic_00000000000000F5.html","AzureDataExplorerCredentialScanProperties.Credential Property","Gets or sets the credential."];

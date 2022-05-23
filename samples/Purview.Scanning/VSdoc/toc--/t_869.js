@@ -1,0 +1,1 @@
+c['869']=[['870',"AzureSynapseWorkspaceCredentialScanProperties Constructor","topic_000000000000028C.html",0]];

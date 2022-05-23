@@ -1,0 +1,1 @@
+search_result['1234']=["topic_00000000000001AD.html","AzureResourceGroupSystemScanRulesetProperties Class","The AzureResourceGroupSystemScanRulesetProperties."];

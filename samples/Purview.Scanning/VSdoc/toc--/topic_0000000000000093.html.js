@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Purview.Scanning Reference","topic_000000000000062D.html"],['98',"Purview.Scanning.Models Namespace","topic_0000000000000000.html"],['271',"AmazonS3CredentialScanPropertiesCredential Class","topic_0000000000000092.html"],['272',"AmazonS3CredentialScanPropertiesCredential Constructor","topic_0000000000000093.html"]];

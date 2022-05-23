@@ -1,0 +1,1 @@
+c['406']=[['407',"AzureDataExplorerMsiScanProperties Constructor","topic_0000000000000104.html",0],['408',"Properties","topic_0000000000000103_props--.html",1]];

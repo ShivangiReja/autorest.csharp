@@ -1,0 +1,1 @@
+search_result['1651']=["topic_0000000000000236.html","AzureStorageProperties.Endpoint Property","Gets or sets the endpoint."];

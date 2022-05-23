@@ -1,0 +1,1 @@
+search_result['699']=["topic_00000000000000EF.html","AzureCosmosDbSystemScanRulesetProperties Constructor","Initializes a new instance of AzureCosmosDbSystemScanRulesetProperties."];

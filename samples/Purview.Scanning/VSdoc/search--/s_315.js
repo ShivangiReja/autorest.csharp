@@ -1,0 +1,1 @@
+search_result['315']=["topic_0000000000000069.html","AmazonPostgreSqlCredentialScan.Properties Property","Gets or sets the properties."];

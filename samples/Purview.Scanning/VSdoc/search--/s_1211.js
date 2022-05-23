@@ -1,0 +1,1 @@
+search_result['1211']=["topic_00000000000001A5.html","AzureResourceGroupScanRuleset.Properties Property","Gets or sets the properties."];

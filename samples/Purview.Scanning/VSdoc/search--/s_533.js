@@ -1,0 +1,1 @@
+search_result['533']=["topic_00000000000000B7.html","AmazonSqlCredentialScanProperties.ServerEndpoint Property","Gets or sets the server endpoint."];

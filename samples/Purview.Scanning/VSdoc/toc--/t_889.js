@@ -1,0 +1,1 @@
+c['889']=[['890',"DedicatedSqlEndpoint Property","topic_000000000000029D.html",0],['891',"ServerlessSqlEndpoint Property","topic_000000000000029E.html",0]];

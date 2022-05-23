@@ -1,0 +1,1 @@
+search_result['1606']=["topic_0000000000000227.html","AzureStorageCredentialScanPropertiesCredential Constructor","Initializes a new instance of AzureStorageCredentialScanPropertiesCredential."];

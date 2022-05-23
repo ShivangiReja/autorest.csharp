@@ -1,0 +1,1 @@
+search_result['1524']=["topic_000000000000020B_attached_props--.html","AzureSqlDataWarehouseProperties Attached Properties",""];

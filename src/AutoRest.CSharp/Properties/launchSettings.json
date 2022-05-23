@@ -432,6 +432,10 @@
       "commandName": "Project",
       "commandLineArgs": "--standalone $(SolutionDir)\\test\\TestProjects\\PublicClientCtor\\Generated"
     },
+    "Purview.Scanning": {
+      "commandName": "Project",
+      "commandLineArgs": "--standalone $(SolutionDir)\\samples\\Purview.Scanning\\Generated"
+    },
     "ReferenceTypes": {
       "commandName": "Project",
       "commandLineArgs": "--standalone $(SolutionDir)\\test\\TestProjects\\ReferenceTypes\\Generated"

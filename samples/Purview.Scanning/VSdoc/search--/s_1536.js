@@ -1,0 +1,1 @@
+search_result['1536']=["topic_000000000000020E_vars--.html","AzureSqlDataWarehouseScanRuleset Fields",""];

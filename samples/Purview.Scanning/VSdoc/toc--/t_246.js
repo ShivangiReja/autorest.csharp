@@ -1,0 +1,1 @@
+c['246']=[['247',"AmazonPostgreSqlScanRuleset Constructor","topic_000000000000007E.html",0],['248',"Properties","topic_000000000000007D_props--.html",1]];

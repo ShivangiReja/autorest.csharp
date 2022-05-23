@@ -1,0 +1,1 @@
+search_result['1526']=["topic_000000000000020B_methods--.html","AzureSqlDataWarehouseProperties Methods",""];

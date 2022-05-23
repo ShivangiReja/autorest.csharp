@@ -1,0 +1,1 @@
+search_result['1055']=["topic_000000000000016D.html","AzurePostgreSqlCredentialScanProperties Constructor","Initializes a new instance of AzurePostgreSqlCredentialScanProperties."];

@@ -1,0 +1,1 @@
+search_result['1135']=["topic_000000000000018B.html","AzurePostgreSqlSystemScanRulesetProperties Constructor","Initializes a new instance of AzurePostgreSqlSystemScanRulesetProperties."];

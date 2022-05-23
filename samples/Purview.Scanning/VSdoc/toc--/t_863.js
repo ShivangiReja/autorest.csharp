@@ -1,0 +1,1 @@
+c['863']=[['864',"AzureSynapseSystemScanRulesetProperties Constructor","topic_0000000000000287.html",0]];

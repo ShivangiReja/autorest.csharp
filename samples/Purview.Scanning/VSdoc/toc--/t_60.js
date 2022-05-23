@@ -1,0 +1,1 @@
+c['60']=[['61',"PurviewScanningServiceClient Constructor","topic_00000000000005F5_overloads--.html",1],['64',"Methods","topic_00000000000005F4_methods--.html",1]];

@@ -1,0 +1,1 @@
+c['703']=[['704',"AzureSqlDatabaseManagedInstanceSystemScanRuleset Constructor","topic_00000000000001DE.html",0],['705',"Properties","topic_00000000000001DD_props--.html",1]];
