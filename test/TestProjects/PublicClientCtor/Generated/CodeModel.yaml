@@ -36,6 +36,7 @@ schemas: !Schemas
       apiVersions:
         - !ApiVersion 
           version: 1.0.0
+      maxLength: 1024
       language: !Languages 
         default:
           name: TestModelStatus

@@ -60,7 +60,7 @@
       "type": "object",
       "properties": {
         "Code": { "type": "string" },
-        "Status": { "type": "string" }
+        "Status": { "type": "string", "maxLength": 1024 }
       },
       "description": "."
     }
