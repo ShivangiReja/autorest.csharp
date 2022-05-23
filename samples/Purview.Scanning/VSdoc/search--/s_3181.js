@@ -1,0 +1,1 @@
+search_result['3181']=["topic_00000000000004FD.html","ScanProperties.Collection Property","Gets or sets the collection."];

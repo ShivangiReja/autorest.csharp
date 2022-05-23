@@ -1,0 +1,1 @@
+search_result['2364']=["topic_0000000000000378.html","ExpandingResourceScanPropertiesResourceTypes.AmazonAccount Property","Gets or sets the amazon account."];

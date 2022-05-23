@@ -1,0 +1,1 @@
+search_result['3180']=["topic_00000000000004FC.html","ScanProperties.ScanRulesetType Property","Gets or sets the scan ruleset type."];

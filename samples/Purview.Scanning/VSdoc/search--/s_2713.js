@@ -1,0 +1,1 @@
+search_result['2713']=["topic_0000000000000427.html","PowerBIScanRulesetProperties Class","The PowerBIScanRulesetProperties."];

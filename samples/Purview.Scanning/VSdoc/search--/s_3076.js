@@ -1,0 +1,1 @@
+search_result['3076']=["topic_00000000000004B6.html","ScanAuthorizationType.AzureSynapseCredential Property","AzureSynapseCredential."];

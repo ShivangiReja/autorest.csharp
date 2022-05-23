@@ -1,0 +1,1 @@
+search_result['2543']=["topic_00000000000003E6.html","OracleDataSource.Properties Property","Gets or sets the properties."];

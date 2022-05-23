@@ -1,0 +1,1 @@
+search_result['2359']=["topic_0000000000000373.html","ExpandingResourceScanPropertiesResourceTypes.AzureResourceGroup Property","Gets or sets the azure resource group."];

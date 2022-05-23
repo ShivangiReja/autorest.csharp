@@ -1,0 +1,1 @@
+search_result['2666']=["topic_0000000000000416.html","PowerBIDelegatedScanProperties.IncludePersonalWorkspaces Property","Gets or sets the include personal workspaces."];

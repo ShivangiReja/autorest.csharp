@@ -1,0 +1,1 @@
+search_result['3646']=["topic_00000000000005C7.html","PurviewClassificationRuleClient.GetProperties Method","Get a classification rule."];

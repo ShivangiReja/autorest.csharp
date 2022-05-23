@@ -1,0 +1,1 @@
+search_result['3305']=["topic_000000000000053E.html","SqlServerDatabaseCredentialScanProperties Constructor","Initializes a new instance of SqlServerDatabaseCredentialScanProperties."];

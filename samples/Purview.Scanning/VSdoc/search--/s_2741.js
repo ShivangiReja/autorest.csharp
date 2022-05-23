@@ -1,0 +1,1 @@
+search_result['2741']=["topic_000000000000042F.html","PowerBISystemScanRulesetProperties Constructor","Initializes a new instance of PowerBISystemScanRulesetProperties."];

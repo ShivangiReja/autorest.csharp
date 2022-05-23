@@ -1,0 +1,1 @@
+search_result['2127']=["topic_00000000000002ED.html","CredentialType.Equality Operator","Determines if two CredentialType values are the same."];

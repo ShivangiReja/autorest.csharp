@@ -1,0 +1,1 @@
+search_result['3141']=["topic_00000000000004EB.html","ScanLevelType.Implicit Conversion (String to ScanLevelType) Operator","Converts a string to a ScanLevelType."];

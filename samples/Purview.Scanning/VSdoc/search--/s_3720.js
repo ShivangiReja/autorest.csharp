@@ -1,0 +1,1 @@
+search_result['3720']=["topic_00000000000005FC.html","PurviewScanningServiceClient.DeleteKeyVaultReference Method","Deletes the key vault connection associated with the account."];

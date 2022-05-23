@@ -1,0 +1,1 @@
+search_result['2478']=["topic_00000000000003C5.html","OperationResponse.ScanResultId Property","Gets the scan result id."];

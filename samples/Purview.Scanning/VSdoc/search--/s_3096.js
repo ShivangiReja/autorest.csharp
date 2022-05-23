@@ -1,0 +1,1 @@
+search_result['3096']=["topic_00000000000004CA.html","ScanAuthorizationType.AzureSqlDatabaseManagedInstanceMsi Property","AzureSqlDatabaseManagedInstanceMsi."];

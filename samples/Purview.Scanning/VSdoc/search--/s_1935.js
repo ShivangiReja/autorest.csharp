@@ -1,0 +1,1 @@
+search_result['1935']=["topic_0000000000000294.html","AzureSynapseWorkspaceMsiScan Class","The AzureSynapseWorkspaceMsiScan."];

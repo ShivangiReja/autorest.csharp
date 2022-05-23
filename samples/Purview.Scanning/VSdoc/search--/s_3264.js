@@ -1,0 +1,1 @@
+search_result['3264']=["topic_0000000000000528.html","ScanRulesetStatus.Equality Operator","Determines if two ScanRulesetStatus values are the same."];

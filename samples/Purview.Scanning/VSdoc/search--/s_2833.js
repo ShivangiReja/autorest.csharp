@@ -1,0 +1,1 @@
+search_result['2833']=["topic_0000000000000459.html","SapEccCredentialScanProperties.Credential Property","Gets or sets the credential."];

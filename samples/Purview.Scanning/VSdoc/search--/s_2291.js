@@ -1,0 +1,1 @@
+search_result['2291']=["topic_000000000000034F.html","DaysOfWeek Constructor","Initializes a new instance of DaysOfWeek."];

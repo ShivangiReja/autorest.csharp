@@ -1,0 +1,1 @@
+search_result['3048']=["topic_00000000000004A9.html","SapS4HanaSystemScanRulesetProperties Class","The SapS4HanaSystemScanRulesetProperties."];

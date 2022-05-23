@@ -1,0 +1,1 @@
+search_result['3773']=["topic_0000000000000628.html","PurviewScanningServiceModelFactory.DataSourceProperties Method","Initializes a new instance of DataSourceProperties."];

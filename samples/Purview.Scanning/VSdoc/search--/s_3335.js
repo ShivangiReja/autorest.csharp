@@ -1,0 +1,1 @@
+search_result['3335']=["topic_0000000000000548.html","SqlServerDatabaseProperties.ServerEndpoint Property","Gets or sets the server endpoint."];

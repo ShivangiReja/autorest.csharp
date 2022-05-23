@@ -1,0 +1,1 @@
+search_result['3717']=["topic_00000000000005F9.html","PurviewScanningServiceClient.CreateOrUpdateKeyVaultReferenceAsync Method","Creates an instance of a key vault connection."];

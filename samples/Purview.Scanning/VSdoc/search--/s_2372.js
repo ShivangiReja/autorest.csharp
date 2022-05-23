@@ -1,0 +1,1 @@
+search_result['2372']=["topic_0000000000000380.html","ExpandingResourceScanPropertiesResourceTypes.AzurePostgreSql Property","Gets or sets the azure postgre sql."];

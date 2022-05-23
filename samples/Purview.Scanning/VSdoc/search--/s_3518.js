@@ -1,0 +1,1 @@
+search_result['3518']=["topic_000000000000058C.html","TeradataTeradataUserPassScanProperties.DriverLocation Property","Gets or sets the driver location."];

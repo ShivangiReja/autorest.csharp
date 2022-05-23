@@ -1,0 +1,1 @@
+search_result['3365']=["topic_0000000000000552.html","SqlServerDatabaseSystemScanRuleset.Properties Property","Gets or sets the properties."];

@@ -1,0 +1,1 @@
+search_result['2985']=["topic_0000000000000492.html","SapS4HanaSapS4HanaCredentialScanPropertiesCredential Class","The SapS4HanaSapS4HanaCredentialScanPropertiesCredential."];

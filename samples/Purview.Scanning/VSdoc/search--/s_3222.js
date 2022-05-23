@@ -1,0 +1,1 @@
+search_result['3222']=["topic_0000000000000517.html","ScanResult.RunType Property","Gets the run type."];

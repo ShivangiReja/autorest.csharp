@@ -1,0 +1,1 @@
+search_result['2422']=["topic_00000000000003AD.html","FileExtensionsType.Equality Operator","Determines if two FileExtensionsType values are the same."];

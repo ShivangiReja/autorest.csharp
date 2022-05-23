@@ -1,0 +1,1 @@
+search_result['3426']=["topic_000000000000056C.html","TeradataCredentialScanPropertiesCredential Class","The TeradataCredentialScanPropertiesCredential."];

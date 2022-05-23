@@ -1,0 +1,1 @@
+search_result['1974']=["topic_00000000000002A2.html","AzureSynapseWorkspaceScanRulesetProperties Class","The AzureSynapseWorkspaceScanRulesetProperties."];

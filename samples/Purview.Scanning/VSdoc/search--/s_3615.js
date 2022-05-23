@@ -1,0 +1,1 @@
+search_result['3615']=["topic_00000000000005B9.html","TriggerRecurrence.Schedule Property","Gets or sets the schedule."];

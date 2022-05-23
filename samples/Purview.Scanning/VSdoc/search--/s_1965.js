@@ -1,0 +1,1 @@
+search_result['1965']=["topic_000000000000029E.html","AzureSynapseWorkspaceProperties.ServerlessSqlEndpoint Property","Gets or sets the serverless sql endpoint."];

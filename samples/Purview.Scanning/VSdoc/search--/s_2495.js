@@ -1,0 +1,1 @@
+search_result['2495']=["topic_00000000000003CC.html","OperationStatus Constructor","Initializes a new instance of OperationStatus."];

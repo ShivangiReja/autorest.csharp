@@ -1,0 +1,1 @@
+search_result['1926']=["topic_0000000000000290.html","AzureSynapseWorkspaceDataSource Constructor","Initializes a new instance of AzureSynapseWorkspaceDataSource."];

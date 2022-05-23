@@ -1,0 +1,1 @@
+search_result['1872']=["topic_000000000000027F_methods--.html","AzureSynapseScanRulesetProperties Methods",""];

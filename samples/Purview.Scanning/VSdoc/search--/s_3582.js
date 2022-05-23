@@ -1,0 +1,1 @@
+search_result['3582']=["topic_00000000000005A7.html","TriggerProperties Constructor","Initializes a new instance of TriggerProperties."];

@@ -1,0 +1,1 @@
+search_result['2910']=["topic_0000000000000474.html","SapEccSystemScanRulesetProperties Class","The SapEccSystemScanRulesetProperties."];

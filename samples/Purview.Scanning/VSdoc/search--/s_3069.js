@@ -1,0 +1,1 @@
+search_result['3069']=["topic_00000000000004AF.html","ScanAuthorizationType Constructor","Initializes a new instance of ScanAuthorizationType."];

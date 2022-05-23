@@ -1,0 +1,1 @@
+search_result['3206']=["topic_0000000000000507.html","ScanResult.ParentId Property","Gets the parent id."];

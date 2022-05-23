@@ -1,0 +1,1 @@
+search_result['3739']=["topic_000000000000060F.html","PurviewScanningServiceClient.GetScanRulesetsAsync Method","List scan rulesets in Data catalog."];

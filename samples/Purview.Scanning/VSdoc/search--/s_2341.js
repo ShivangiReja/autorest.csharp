@@ -1,0 +1,1 @@
+search_result['2341']=["topic_000000000000036B.html","ExpandingResourceScanProperties.ResourceTypes Property","Gets or sets the resource types."];

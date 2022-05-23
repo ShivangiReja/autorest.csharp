@@ -1,0 +1,1 @@
+search_result['2373']=["topic_0000000000000381.html","ExpandingResourceScanPropertiesResourceTypes.SqlServerDatabase Property","Gets or sets the sql server database."];

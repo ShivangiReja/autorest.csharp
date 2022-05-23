@@ -1,0 +1,1 @@
+search_result['1860']=["topic_000000000000027B.html","AzureSynapseProperties.SqlOnDemandEndpoint Property","Gets or sets the sql on demand endpoint."];

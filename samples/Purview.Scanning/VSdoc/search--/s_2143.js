@@ -1,0 +1,1 @@
+search_result['2143']=["topic_00000000000002F6.html","CustomClassificationRule.Properties Property","Gets or sets the properties."];

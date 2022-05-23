@@ -1,0 +1,1 @@
+search_result['3024']=["topic_00000000000004A0.html","SapS4HanaScanRuleset Constructor","Initializes a new instance of SapS4HanaScanRuleset."];

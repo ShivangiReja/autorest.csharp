@@ -1,0 +1,1 @@
+search_result['2424']=["topic_00000000000003AF.html","FileExtensionsType.Implicit Conversion (String to FileExtensionsType) Operator","Converts a string to a FileExtensionsType."];

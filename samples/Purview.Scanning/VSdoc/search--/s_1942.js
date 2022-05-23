@@ -1,0 +1,1 @@
+search_result['1942']=["topic_0000000000000296.html","AzureSynapseWorkspaceMsiScan.Properties Property","Gets or sets the properties."];

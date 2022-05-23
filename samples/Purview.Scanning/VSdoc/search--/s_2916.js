@@ -1,0 +1,1 @@
+search_result['2916']=["topic_0000000000000475.html","SapEccSystemScanRulesetProperties Constructor","Initializes a new instance of SapEccSystemScanRulesetProperties."];

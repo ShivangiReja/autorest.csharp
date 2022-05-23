@@ -1,0 +1,1 @@
+search_result['3217']=["topic_0000000000000512.html","ScanResult.ScanRulesetVersion Property","Gets the scan ruleset version."];

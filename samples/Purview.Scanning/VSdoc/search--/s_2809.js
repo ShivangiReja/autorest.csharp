@@ -1,0 +1,1 @@
+search_result['2809']=["topic_0000000000000450.html","ResourceTypeFilterCredential Constructor","Initializes a new instance of ResourceTypeFilterCredential."];

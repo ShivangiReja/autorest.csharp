@@ -1,0 +1,1 @@
+search_result['2366']=["topic_000000000000037A.html","ExpandingResourceScanPropertiesResourceTypes.AmazonSql Property","Gets or sets the amazon sql."];

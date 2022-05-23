@@ -1,0 +1,1 @@
+search_result['3672']=["topic_00000000000005DA.html","PurviewDataSourceClient.GetScans Method","List scans in data source."];

@@ -1,0 +1,1 @@
+search_result['2152']=["topic_00000000000002FA.html","CustomClassificationRuleProperties.ClassificationAction Property","Gets the classification action."];

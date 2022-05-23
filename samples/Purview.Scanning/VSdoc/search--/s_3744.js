@@ -1,0 +1,1 @@
+search_result['3744']=["topic_0000000000000614.html","PurviewScanningServiceClient.GetSystemRulesetsVersions Method","List system scan ruleset versions in Data catalog."];

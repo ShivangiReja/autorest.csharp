@@ -1,0 +1,1 @@
+search_result['2958']=["topic_0000000000000486.html","SapS4HanaProperties.ApplicationServer Property","Gets or sets the application server."];

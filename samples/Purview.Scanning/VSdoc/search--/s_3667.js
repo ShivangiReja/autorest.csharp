@@ -1,0 +1,1 @@
+search_result['3667']=["topic_00000000000005D5.html","PurviewDataSourceClient.GetPropertiesAsync Method","Get a data source."];

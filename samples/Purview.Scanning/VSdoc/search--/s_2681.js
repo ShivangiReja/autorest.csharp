@@ -1,0 +1,1 @@
+search_result['2681']=["topic_000000000000041B.html","PowerBIMsiScan.Properties Property","Gets or sets the properties."];

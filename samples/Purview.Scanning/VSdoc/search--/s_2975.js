@@ -1,0 +1,1 @@
+search_result['2975']=["topic_000000000000048D.html","SapS4HanaSapS4HanaCredentialScanProperties.ClientId Property","Gets or sets the client id."];

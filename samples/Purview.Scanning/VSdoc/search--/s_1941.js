@@ -1,0 +1,1 @@
+search_result['1941']=["topic_0000000000000295.html","AzureSynapseWorkspaceMsiScan Constructor","Initializes a new instance of AzureSynapseWorkspaceMsiScan."];

@@ -1,0 +1,1 @@
+search_result['2376']=["topic_0000000000000384.html","ExpandingResourceScanPropertiesResourceTypes.AzureMySql Property","Gets or sets the azure my sql."];

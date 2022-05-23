@@ -1,0 +1,1 @@
+search_result['2663']=["topic_0000000000000413.html","PowerBIDelegatedScanProperties.ClientId Property","Gets or sets the client id."];

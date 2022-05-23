@@ -1,0 +1,1 @@
+search_result['2502']=["topic_00000000000003D3.html","OperationStatus.Equality Operator","Determines if two OperationStatus values are the same."];

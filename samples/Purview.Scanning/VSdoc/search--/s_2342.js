@@ -1,0 +1,1 @@
+search_result['2342']=["topic_000000000000036C.html","ExpandingResourceScanProperties.Credential Property","Gets or sets the credential."];

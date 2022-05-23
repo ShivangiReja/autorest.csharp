@@ -1,0 +1,1 @@
+search_result['2761']=["topic_0000000000000439.html","RecurrenceSchedule.WeekDays Property","Gets the week days."];

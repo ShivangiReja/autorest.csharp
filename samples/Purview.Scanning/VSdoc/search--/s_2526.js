@@ -1,0 +1,1 @@
+search_result['2526']=["topic_00000000000003DF.html","OracleCredentialScanProperties.Credential Property","Gets or sets the credential."];

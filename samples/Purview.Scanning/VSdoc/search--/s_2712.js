@@ -1,0 +1,1 @@
+search_result['2712']=["topic_0000000000000426.html","PowerBIScanRuleset.Properties Property","Gets or sets the properties."];

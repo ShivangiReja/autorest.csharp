@@ -1,0 +1,1 @@
+search_result['3164']=["topic_00000000000004F6.html","ScanningRuleScanRulesetProperties.ScanningRule Property","Gets or sets the scanning rule."];

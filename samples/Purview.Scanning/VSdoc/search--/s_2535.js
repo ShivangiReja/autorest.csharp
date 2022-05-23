@@ -1,0 +1,1 @@
+search_result['2535']=["topic_00000000000003E3.html","OracleCredentialScanPropertiesCredential Constructor","Initializes a new instance of OracleCredentialScanPropertiesCredential."];

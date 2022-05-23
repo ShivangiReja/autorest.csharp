@@ -1,0 +1,1 @@
+search_result['2034']=["topic_00000000000002B9.html","ClassificationRulePattern Constructor","Initializes a new instance of ClassificationRulePattern."];

@@ -1,0 +1,1 @@
+search_result['2369']=["topic_000000000000037D.html","ExpandingResourceScanPropertiesResourceTypes.AzureFileService Property","Gets or sets the azure file service."];

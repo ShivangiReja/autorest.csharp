@@ -1,0 +1,1 @@
+search_result['2571']=["topic_00000000000003EE.html","OracleProperties Constructor","Initializes a new instance of OracleProperties."];

@@ -1,0 +1,1 @@
+search_result['3533']=["topic_0000000000000591.html","TeradataUserPassScan.Properties Property","Gets or sets the properties."];

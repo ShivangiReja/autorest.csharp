@@ -1,0 +1,1 @@
+search_result['2378']=["topic_0000000000000386.html","ExpandingResourceScanPropertiesResourceTypes.Teradata Property","Gets or sets the teradata."];

@@ -1,0 +1,1 @@
+search_result['3156']=["topic_00000000000004F3.html","ScanningRule.CustomFileExtensions Property","Gets the custom file extensions."];

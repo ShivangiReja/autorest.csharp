@@ -1,0 +1,1 @@
+search_result['2362']=["topic_0000000000000376.html","ExpandingResourceScanPropertiesResourceTypes.AdlsGen1 Property","Gets or sets the adls gen 1."];

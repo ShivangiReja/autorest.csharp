@@ -1,0 +1,1 @@
+search_result['2611']=["topic_00000000000003FD.html","OracleSystemScanRulesetProperties Constructor","Initializes a new instance of OracleSystemScanRulesetProperties."];

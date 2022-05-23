@@ -1,0 +1,1 @@
+search_result['2028']=["topic_00000000000002B8.html","ClassificationRulePattern Class","The ClassificationRulePattern."];

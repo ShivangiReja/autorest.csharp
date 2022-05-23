@@ -1,0 +1,1 @@
+search_result['2375']=["topic_0000000000000383.html","ExpandingResourceScanPropertiesResourceTypes.AzureSqlDataWarehouse Property","Gets or sets the azure sql data warehouse."];

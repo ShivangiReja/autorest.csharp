@@ -1,0 +1,1 @@
+search_result['3439']=["topic_000000000000056F.html","TeradataDataSource Constructor","Initializes a new instance of TeradataDataSource."];

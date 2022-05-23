@@ -1,0 +1,1 @@
+search_result['2370']=["topic_000000000000037E.html","ExpandingResourceScanPropertiesResourceTypes.AzureSqlDatabase Property","Gets or sets the azure sql database."];

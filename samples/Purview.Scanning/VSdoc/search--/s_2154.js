@@ -1,0 +1,1 @@
+search_result['2154']=["topic_00000000000002FC.html","CustomClassificationRuleProperties.ColumnPatterns Property","Gets the column patterns."];

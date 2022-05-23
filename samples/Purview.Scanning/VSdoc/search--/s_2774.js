@@ -1,0 +1,1 @@
+search_result['2774']=["topic_0000000000000441.html","RegexClassificationRulePattern Class","The RegexClassificationRulePattern."];

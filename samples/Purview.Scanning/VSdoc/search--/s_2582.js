@@ -1,0 +1,1 @@
+search_result['2582']=["topic_00000000000003F4.html","OracleScanRuleset.Properties Property","Gets or sets the properties."];

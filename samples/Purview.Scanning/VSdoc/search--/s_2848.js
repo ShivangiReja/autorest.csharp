@@ -1,0 +1,1 @@
+search_result['2848']=["topic_000000000000045E.html","SapEccDataSource Constructor","Initializes a new instance of SapEccDataSource."];

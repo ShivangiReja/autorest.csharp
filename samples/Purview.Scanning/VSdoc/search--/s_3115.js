@@ -1,0 +1,1 @@
+search_result['3115']=["topic_00000000000004DD.html","ScanAuthorizationType.Implicit Conversion (String to ScanAuthorizationType) Operator","Converts a string to a ScanAuthorizationType."];

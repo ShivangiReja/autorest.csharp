@@ -1,0 +1,1 @@
+search_result['2605']=["topic_00000000000003FC.html","OracleSystemScanRulesetProperties Class","The OracleSystemScanRulesetProperties."];

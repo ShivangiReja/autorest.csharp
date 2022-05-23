@@ -1,0 +1,1 @@
+search_result['3097']=["topic_00000000000004CB.html","ScanAuthorizationType.AzureSqlDataWarehouseCredential Property","AzureSqlDataWarehouseCredential."];

@@ -1,0 +1,1 @@
+search_result['3372']=["topic_0000000000000554.html","SqlServerDatabaseSystemScanRulesetProperties Constructor","Initializes a new instance of SqlServerDatabaseSystemScanRulesetProperties."];

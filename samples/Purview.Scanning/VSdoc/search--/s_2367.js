@@ -1,0 +1,1 @@
+search_result['2367']=["topic_000000000000037B.html","ExpandingResourceScanPropertiesResourceTypes.AzureCosmosDb Property","Gets or sets the azure cosmos db."];

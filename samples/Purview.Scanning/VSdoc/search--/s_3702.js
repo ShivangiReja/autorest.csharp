@@ -1,0 +1,1 @@
+search_result['3702']=["topic_00000000000005F1.html","PurviewScanClient.DeleteTrigger Method","Deletes the trigger associated with the scan."];

@@ -1,0 +1,1 @@
+search_result['3564']=["topic_000000000000059C.html","TriggerFrequency Constructor","Initializes a new instance of TriggerFrequency."];

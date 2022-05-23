@@ -1,0 +1,1 @@
+search_result['3727']=["topic_0000000000000603.html","PurviewScanningServiceClient.GetSystemRulesetsForDataSourceAsync Method","Get a system scan ruleset for a data source."];

@@ -1,0 +1,1 @@
+search_result['3726']=["topic_0000000000000602.html","PurviewScanningServiceClient.DeleteScanRuleset Method","Deletes a scan ruleset."];

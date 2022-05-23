@@ -1,0 +1,1 @@
+search_result['2380']=["topic_0000000000000388.html","ExpandingResourceScanPropertiesResourceTypes.SapS4Hana Property","Gets or sets the sap s 4 hana."];

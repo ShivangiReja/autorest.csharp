@@ -1,0 +1,1 @@
+search_result['2966']=["topic_0000000000000489.html","SapS4HanaSapS4HanaCredentialScan Constructor","Initializes a new instance of SapS4HanaSapS4HanaCredentialScan."];

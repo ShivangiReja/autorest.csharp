@@ -1,0 +1,1 @@
+search_result['3770']=["topic_0000000000000625.html","PurviewScanningServiceModelFactory.CollectionReference Method","Initializes a new instance of CollectionReference."];

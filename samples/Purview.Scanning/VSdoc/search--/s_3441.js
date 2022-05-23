@@ -1,0 +1,1 @@
+search_result['3441']=["topic_0000000000000571.html","TeradataDataSourceProperties Class","The TeradataDataSourceProperties."];

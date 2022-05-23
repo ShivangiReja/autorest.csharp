@@ -1,0 +1,1 @@
+search_result['2660']=["topic_0000000000000410.html","PowerBIDelegatedScanProperties Constructor","Initializes a new instance of PowerBIDelegatedScanProperties."];

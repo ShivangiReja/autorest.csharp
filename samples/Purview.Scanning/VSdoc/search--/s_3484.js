@@ -1,0 +1,1 @@
+search_result['3484']=["topic_000000000000057E.html","TeradataSystemScanRuleset Constructor","Initializes a new instance of TeradataSystemScanRuleset."];

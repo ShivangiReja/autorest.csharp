@@ -1,0 +1,1 @@
+search_result['3724']=["topic_0000000000000600.html","PurviewScanningServiceClient.CreateOrUpdateScanRuleset Method","Creates or Updates a scan ruleset."];

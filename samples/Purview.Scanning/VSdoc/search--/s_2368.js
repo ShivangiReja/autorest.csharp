@@ -1,0 +1,1 @@
+search_result['2368']=["topic_000000000000037C.html","ExpandingResourceScanPropertiesResourceTypes.AzureDataExplorer Property","Gets or sets the azure data explorer."];

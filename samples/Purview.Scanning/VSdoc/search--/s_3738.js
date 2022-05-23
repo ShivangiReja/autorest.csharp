@@ -1,0 +1,1 @@
+search_result['3738']=["topic_000000000000060E.html","PurviewScanningServiceClient.GetDataSources Method","List data sources in Data catalog."];

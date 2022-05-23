@@ -1,0 +1,1 @@
+search_result['2358']=["topic_0000000000000372.html","ExpandingResourceScanPropertiesResourceTypes.AzureSubscription Property","Gets or sets the azure subscription."];

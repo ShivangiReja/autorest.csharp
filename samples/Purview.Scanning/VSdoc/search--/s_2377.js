@@ -1,0 +1,1 @@
+search_result['2377']=["topic_0000000000000385.html","ExpandingResourceScanPropertiesResourceTypes.AzureStorage Property","Gets or sets the azure storage."];

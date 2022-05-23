@@ -1,0 +1,1 @@
+search_result['1920']=["topic_000000000000028F.html","AzureSynapseWorkspaceDataSource Class","The AzureSynapseWorkspaceDataSource."];

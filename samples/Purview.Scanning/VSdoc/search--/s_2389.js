@@ -1,0 +1,1 @@
+search_result['2389']=["topic_000000000000038C.html","FileExtensionsType Constructor","Initializes a new instance of FileExtensionsType."];

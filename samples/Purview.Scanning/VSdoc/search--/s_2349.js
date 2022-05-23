@@ -1,0 +1,1 @@
+search_result['2349']=["topic_000000000000036E.html","ExpandingResourceScanPropertiesCredential Constructor","Initializes a new instance of ExpandingResourceScanPropertiesCredential."];

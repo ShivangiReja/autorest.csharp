@@ -1,0 +1,1 @@
+search_result['3568']=["topic_00000000000005A0.html","TriggerFrequency.Inequality Operator","Determines if two TriggerFrequency values are not the same."];

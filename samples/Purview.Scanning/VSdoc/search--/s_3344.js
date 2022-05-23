@@ -1,0 +1,1 @@
+search_result['3344']=["topic_000000000000054C.html","SqlServerDatabaseScanRulesetProperties Class","The SqlServerDatabaseScanRulesetProperties."];

@@ -1,0 +1,1 @@
+search_result['3086']=["topic_00000000000004C0.html","ScanAuthorizationType.AzureCosmosDbCredential Property","AzureCosmosDbCredential."];

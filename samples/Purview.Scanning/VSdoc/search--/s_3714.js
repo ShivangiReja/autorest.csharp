@@ -1,0 +1,1 @@
+search_result['3714']=["topic_00000000000005F6_overloads--.html","PurviewScanningServiceClient Constructor","Initializes a new instance of PurviewScanningServiceClient."];

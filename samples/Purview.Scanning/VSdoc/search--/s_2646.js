@@ -1,0 +1,1 @@
+search_result['2646']=["topic_000000000000040C.html","PowerBIDelegatedScan Class","The PowerBIDelegatedScan."];

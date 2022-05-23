@@ -1,0 +1,1 @@
+search_result['2112']=["topic_00000000000002E3.html","CredentialReference Constructor","Initializes a new instance of CredentialReference."];

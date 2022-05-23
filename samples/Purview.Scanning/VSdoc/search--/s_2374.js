@@ -1,0 +1,1 @@
+search_result['2374']=["topic_0000000000000382.html","ExpandingResourceScanPropertiesResourceTypes.AzureSqlDatabaseManagedInstance Property","Gets or sets the azure sql database managed instance."];

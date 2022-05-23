@@ -1,0 +1,1 @@
+search_result['3664']=["topic_00000000000005D2_overloads--.html","PurviewDataSourceClient Constructor","Initializes a new instance of PurviewDataSourceClient."];

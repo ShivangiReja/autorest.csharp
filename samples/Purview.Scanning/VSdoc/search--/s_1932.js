@@ -1,0 +1,1 @@
+search_result['1932']=["topic_0000000000000292_props--.html","AzureSynapseWorkspaceDataSourceProperties Properties",""];

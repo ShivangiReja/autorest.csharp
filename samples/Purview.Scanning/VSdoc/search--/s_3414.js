@@ -1,0 +1,1 @@
+search_result['3414']=["topic_0000000000000565.html","TeradataCredentialScan Constructor","Initializes a new instance of TeradataCredentialScan."];

@@ -1,0 +1,1 @@
+search_result['1871']=["topic_000000000000027F_events--.html","AzureSynapseScanRulesetProperties Events",""];

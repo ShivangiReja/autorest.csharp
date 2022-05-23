@@ -1,0 +1,1 @@
+search_result['1786']=["topic_0000000000000263.html","AzureSubscriptionSystemScanRulesetProperties Class","The AzureSubscriptionSystemScanRulesetProperties."];

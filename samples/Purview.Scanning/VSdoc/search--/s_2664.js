@@ -1,0 +1,1 @@
+search_result['2664']=["topic_0000000000000414.html","PowerBIDelegatedScanProperties.UserName Property","Gets or sets the user name."];

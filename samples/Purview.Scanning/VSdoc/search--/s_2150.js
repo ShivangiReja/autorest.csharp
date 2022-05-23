@@ -1,0 +1,1 @@
+search_result['2150']=["topic_00000000000002F8.html","CustomClassificationRuleProperties Constructor","Initializes a new instance of CustomClassificationRuleProperties."];

@@ -1,0 +1,1 @@
+search_result['3771']=["topic_0000000000000626.html","PurviewScanningServiceModelFactory.SystemClassificationRuleProperties Method","Initializes a new instance of SystemClassificationRuleProperties."];

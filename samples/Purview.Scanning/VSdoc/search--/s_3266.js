@@ -1,0 +1,1 @@
+search_result['3266']=["topic_000000000000052A.html","ScanRulesetStatus.Implicit Conversion (String to ScanRulesetStatus) Operator","Converts a string to a ScanRulesetStatus."];

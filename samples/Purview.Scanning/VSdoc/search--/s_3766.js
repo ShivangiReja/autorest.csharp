@@ -1,0 +1,1 @@
+search_result['3766']=["topic_0000000000000621.html","PurviewScanningServiceModelFactory.ScanDiagnostics Method","Initializes a new instance of ScanDiagnostics."];

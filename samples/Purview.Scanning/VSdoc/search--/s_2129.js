@@ -1,0 +1,1 @@
+search_result['2129']=["topic_00000000000002EF.html","CredentialType.Implicit Conversion (String to CredentialType) Operator","Converts a string to a CredentialType."];

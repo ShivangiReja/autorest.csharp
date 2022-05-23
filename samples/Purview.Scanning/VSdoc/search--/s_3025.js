@@ -1,0 +1,1 @@
+search_result['3025']=["topic_00000000000004A1.html","SapS4HanaScanRuleset.Properties Property","Gets or sets the properties."];

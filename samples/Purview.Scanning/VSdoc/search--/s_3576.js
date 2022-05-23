@@ -1,0 +1,1 @@
+search_result['3576']=["topic_00000000000005A6.html","TriggerProperties Class","The TriggerProperties."];

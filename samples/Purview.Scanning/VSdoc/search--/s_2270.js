@@ -1,0 +1,1 @@
+search_result['2270']=["topic_0000000000000341.html","DayOfWeek.Monday Property","Monday."];

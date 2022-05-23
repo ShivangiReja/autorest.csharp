@@ -1,0 +1,1 @@
+search_result['1785']=["topic_0000000000000262.html","AzureSubscriptionSystemScanRuleset.Properties Property","Gets or sets the properties."];

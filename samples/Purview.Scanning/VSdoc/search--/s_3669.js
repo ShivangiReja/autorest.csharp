@@ -1,0 +1,1 @@
+search_result['3669']=["topic_00000000000005D7.html","PurviewDataSourceClient.DeleteAsync Method","Deletes a data source."];

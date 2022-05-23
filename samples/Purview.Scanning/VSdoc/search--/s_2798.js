@@ -1,0 +1,1 @@
+search_result['2798']=["topic_000000000000044A.html","ResourceTypeFilter Constructor","Initializes a new instance of ResourceTypeFilter."];

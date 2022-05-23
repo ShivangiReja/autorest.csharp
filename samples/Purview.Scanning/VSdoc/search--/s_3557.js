@@ -1,0 +1,1 @@
+search_result['3557']=["topic_000000000000059A.html","Trigger.Properties Property","Gets or sets the properties."];

@@ -1,0 +1,1 @@
+search_result['3774']=["topic_0000000000000629.html","PurviewScanningServiceModelFactory.ScanRulesetProperties Method","Initializes a new instance of ScanRulesetProperties."];

@@ -1,0 +1,1 @@
+search_result['2662']=["topic_0000000000000412.html","PowerBIDelegatedScanProperties.AuthenticationType Property","Gets or sets the authentication type."];

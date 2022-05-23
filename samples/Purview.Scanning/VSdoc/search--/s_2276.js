@@ -1,0 +1,1 @@
+search_result['2276']=["topic_0000000000000347.html","DayOfWeek.Equality Operator","Determines if two DayOfWeek values are the same."];

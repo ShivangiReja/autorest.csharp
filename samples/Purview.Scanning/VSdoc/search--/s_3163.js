@@ -1,0 +1,1 @@
+search_result['3163']=["topic_00000000000004F5.html","ScanningRuleScanRulesetProperties Constructor","Initializes a new instance of ScanningRuleScanRulesetProperties."];

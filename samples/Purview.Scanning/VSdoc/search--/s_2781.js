@@ -1,0 +1,1 @@
+search_result['2781']=["topic_0000000000000443.html","RegexClassificationRulePattern.Pattern Property","Gets or sets the pattern."];

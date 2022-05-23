@@ -1,0 +1,1 @@
+search_result['2230']=["topic_0000000000000320.html","DataSourceType.AzureSynapseWorkspace Property","AzureSynapseWorkspace."];

@@ -1,0 +1,1 @@
+search_result['2727']=["topic_000000000000042B.html","PowerBISystemScanRuleset Class","The PowerBISystemScanRuleset."];

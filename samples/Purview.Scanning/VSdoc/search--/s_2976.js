@@ -1,0 +1,1 @@
+search_result['2976']=["topic_000000000000048E.html","SapS4HanaSapS4HanaCredentialScanProperties.Credential Property","Gets or sets the credential."];

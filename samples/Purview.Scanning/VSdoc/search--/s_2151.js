@@ -1,0 +1,1 @@
+search_result['2151']=["topic_00000000000002F9.html","CustomClassificationRuleProperties.MinimumPercentageMatch Property","Gets or sets the minimum percentage match."];

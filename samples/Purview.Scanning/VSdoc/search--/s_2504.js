@@ -1,0 +1,1 @@
+search_result['2504']=["topic_00000000000003D5.html","OperationStatus.Implicit Conversion (String to OperationStatus) Operator","Converts a string to a OperationStatus."];

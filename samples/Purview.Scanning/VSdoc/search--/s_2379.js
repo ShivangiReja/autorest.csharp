@@ -1,0 +1,1 @@
+search_result['2379']=["topic_0000000000000387.html","ExpandingResourceScanPropertiesResourceTypes.Oracle Property","Gets or sets the oracle."];

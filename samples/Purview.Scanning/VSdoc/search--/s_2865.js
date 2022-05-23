@@ -1,0 +1,1 @@
+search_result['2865']=["topic_0000000000000465.html","SapEccProperties.SystemNumber Property","Gets or sets the system number."];

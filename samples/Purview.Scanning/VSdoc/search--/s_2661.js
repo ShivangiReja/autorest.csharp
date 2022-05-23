@@ -1,0 +1,1 @@
+search_result['2661']=["topic_0000000000000411.html","PowerBIDelegatedScanProperties.Tenant Property","Gets or sets the tenant."];

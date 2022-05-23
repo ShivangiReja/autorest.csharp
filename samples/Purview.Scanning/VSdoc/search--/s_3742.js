@@ -1,0 +1,1 @@
+search_result['3742']=["topic_0000000000000612.html","PurviewScanningServiceClient.GetSystemRulesets Method","List all system scan rulesets for an account."];

@@ -1,0 +1,1 @@
+search_result['2680']=["topic_000000000000041A.html","PowerBIMsiScan Constructor","Initializes a new instance of PowerBIMsiScan."];

@@ -1,0 +1,1 @@
+search_result['2301']=["topic_0000000000000359.html","DaysOfWeek.Implicit Conversion (String to DaysOfWeek) Operator","Converts a string to a DaysOfWeek."];

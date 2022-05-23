@@ -1,0 +1,1 @@
+search_result['3424']=["topic_000000000000056A.html","TeradataCredentialScanProperties.Schema Property","Gets or sets the schema."];

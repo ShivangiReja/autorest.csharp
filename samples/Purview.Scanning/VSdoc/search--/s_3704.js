@@ -1,0 +1,1 @@
+search_result['3704']=["topic_00000000000005F3.html","PurviewScanClient.GetRuns Method","Lists the scan history of a scan."];

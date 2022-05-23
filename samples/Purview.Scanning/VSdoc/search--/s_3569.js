@@ -1,0 +1,1 @@
+search_result['3569']=["topic_00000000000005A1.html","TriggerFrequency.Implicit Conversion (String to TriggerFrequency) Operator","Converts a string to a TriggerFrequency."];

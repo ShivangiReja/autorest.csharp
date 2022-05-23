@@ -1,0 +1,1 @@
+search_result['2382']=["topic_000000000000038A.html","ExpandingResourceScanPropertiesResourceTypes.PowerBI Property","Gets or sets the power bi."];

@@ -1,0 +1,1 @@
+search_result['1963']=["topic_000000000000029C.html","AzureSynapseWorkspaceProperties Constructor","Initializes a new instance of AzureSynapseWorkspaceProperties."];

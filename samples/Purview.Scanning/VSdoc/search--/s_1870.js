@@ -1,0 +1,1 @@
+search_result['1870']=["topic_000000000000027F_attached_props--.html","AzureSynapseScanRulesetProperties Attached Properties",""];

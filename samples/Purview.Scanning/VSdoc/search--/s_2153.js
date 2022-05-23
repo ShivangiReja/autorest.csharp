@@ -1,0 +1,1 @@
+search_result['2153']=["topic_00000000000002FB.html","CustomClassificationRuleProperties.DataPatterns Property","Gets the data patterns."];

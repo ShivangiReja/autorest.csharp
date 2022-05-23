@@ -1,0 +1,1 @@
+search_result['2043']=["topic_00000000000002BD.html","ClassificationRulePatternType.Equality Operator","Determines if two ClassificationRulePatternType values are the same."];

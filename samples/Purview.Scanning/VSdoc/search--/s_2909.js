@@ -1,0 +1,1 @@
+search_result['2909']=["topic_0000000000000473.html","SapEccSystemScanRuleset.Properties Property","Gets or sets the properties."];

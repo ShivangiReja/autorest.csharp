@@ -1,0 +1,1 @@
+search_result['3114']=["topic_00000000000004DC.html","ScanAuthorizationType.Inequality Operator","Determines if two ScanAuthorizationType values are not the same."];

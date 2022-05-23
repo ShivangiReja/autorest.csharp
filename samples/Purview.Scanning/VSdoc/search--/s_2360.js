@@ -1,0 +1,1 @@
+search_result['2360']=["topic_0000000000000374.html","ExpandingResourceScanPropertiesResourceTypes.AzureSynapseWorkspace Property","Gets or sets the azure synapse workspace."];

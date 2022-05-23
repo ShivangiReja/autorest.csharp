@@ -1,0 +1,1 @@
+search_result['2645']=["topic_000000000000040B.html","PowerBIDataSourceProperties Constructor","Initializes a new instance of PowerBIDataSourceProperties."];

@@ -1,0 +1,1 @@
+search_result['2343']=["topic_000000000000036D.html","ExpandingResourceScanPropertiesCredential Class","The ExpandingResourceScanPropertiesCredential."];

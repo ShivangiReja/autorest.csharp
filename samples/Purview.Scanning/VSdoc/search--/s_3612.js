@@ -1,0 +1,1 @@
+search_result['3612']=["topic_00000000000005B6.html","TriggerRecurrence.Interval Property","Gets or sets the interval."];

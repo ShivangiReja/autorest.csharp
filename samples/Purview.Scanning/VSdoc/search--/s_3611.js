@@ -1,0 +1,1 @@
+search_result['3611']=["topic_00000000000005B5.html","TriggerRecurrence.Frequency Property","Gets or sets the frequency."];

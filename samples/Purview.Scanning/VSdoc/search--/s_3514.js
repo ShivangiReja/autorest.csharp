@@ -1,0 +1,1 @@
+search_result['3514']=["topic_0000000000000588.html","TeradataTeradataUserPassScanProperties Constructor","Initializes a new instance of TeradataTeradataUserPassScanProperties."];

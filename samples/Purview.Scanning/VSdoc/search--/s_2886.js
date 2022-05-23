@@ -1,0 +1,1 @@
+search_result['2886']=["topic_000000000000046B.html","SapEccScanRuleset Constructor","Initializes a new instance of SapEccScanRuleset."];

@@ -1,0 +1,1 @@
+search_result['3423']=["topic_0000000000000569.html","TeradataCredentialScanProperties.Credential Property","Gets or sets the credential."];

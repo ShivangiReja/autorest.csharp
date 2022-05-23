@@ -1,0 +1,1 @@
+search_result['2081']=["topic_00000000000002D5.html","ClassificationRuleType.Implicit Conversion (String to ClassificationRuleType) Operator","Converts a string to a ClassificationRuleType."];

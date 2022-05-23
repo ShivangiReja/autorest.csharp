@@ -1,0 +1,1 @@
+search_result['2114']=["topic_00000000000002E5.html","CredentialReference.CredentialType Property","Gets or sets the credential type."];

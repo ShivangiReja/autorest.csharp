@@ -1,0 +1,1 @@
+search_result['2760']=["topic_0000000000000438.html","RecurrenceSchedule.Hours Property","Gets the hours."];

@@ -1,0 +1,1 @@
+search_result['3298']=["topic_000000000000053C.html","SqlServerDatabaseCredentialScan.Properties Property","Gets or sets the properties."];

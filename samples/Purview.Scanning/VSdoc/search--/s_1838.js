@@ -1,0 +1,1 @@
+search_result['1838']=["topic_0000000000000274.html","AzureSynapseMsiScanProperties Class","The AzureSynapseMsiScanProperties."];

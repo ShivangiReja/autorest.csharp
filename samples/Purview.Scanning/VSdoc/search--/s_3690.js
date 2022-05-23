@@ -1,0 +1,1 @@
+search_result['3690']=["topic_00000000000005E5.html","PurviewScanClient.GetProperties Method","Gets a scan information."];

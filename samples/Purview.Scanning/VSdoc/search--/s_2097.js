@@ -1,0 +1,1 @@
+search_result['2097']=["topic_00000000000002DE.html","CollectionReference.Type Property","Gets the type."];

@@ -1,0 +1,1 @@
+search_result['1964']=["topic_000000000000029D.html","AzureSynapseWorkspaceProperties.DedicatedSqlEndpoint Property","Gets or sets the dedicated sql endpoint."];
